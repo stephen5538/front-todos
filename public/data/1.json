@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "address": "上海",
+        "distance": "100m"
+    },
+    {
+        "id": 2,
+        "address": "北京",
+        "distance": "100m"
+    },
+    {
+        "id": 3,
+        "address": "南京",
+        "distance": "100m"
+    } 
+]
